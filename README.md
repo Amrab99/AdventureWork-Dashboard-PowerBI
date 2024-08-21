@@ -4,7 +4,10 @@
 It offers valuable information for businesses to analyze sales trends, identify top-performing products, and track customer behavior.
 
 
-![Adventure works dashboard using Power BI](https://github.com/Amrab99/AdventureWork-Dashboard-PowerBI/tree/945ae7a1975ca0b9e1e4557f275cc469e28396c4/imagesScreenshot 2024-07-21 182125.jpg)
+Here is a screenshot of the dashboard:
+
+![Dashboard Screenshot](images/Screenshot%202024-07-21%20182125.jpg)
+
 
 
 ### Key Metrics and Visualizations
