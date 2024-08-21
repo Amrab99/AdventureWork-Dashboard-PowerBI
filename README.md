@@ -6,7 +6,7 @@ It offers valuable information for businesses to analyze sales trends, identify 
 
 Here is a screenshot of the dashboard:
 
-![Dashboard Screenshot](images/preview.gif)
+![Dashboard Screenshot](images/Screenshot%202024-07-21%20182125.jpg)
 
 
 
